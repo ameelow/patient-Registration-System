@@ -1,17 +1,21 @@
-# Patient Registration System
+# Java Projects Portfolio 
 
-## Description
-This is a Java-based Patient Registration System developed to manage patient records efficiently. The system allows users to register patients, store patient information, and retrieve records.
+##  About Me
+I am a software developer building Java-based systems to improve my programming skills.
 
-## Features
-- Patient registration
-- View patient records
-- Update patient information
-- Simple and user-friendly interface
+## Projects Included
+- Patient Registration System
+- Library Management System
+- Login System
 
-## Technologies Used
-- Java
+##  Skills Practiced
+- Java Programming
 - Object-Oriented Programming (OOP)
+- Arrays & ArrayList
+- User Input Handling (Scanner)
+
+##  Goal
+To become a professional software developer through continuous practice and real projects.
 
 ## Author
-Millicent Apondi Gomba
+Software Developer in progress
