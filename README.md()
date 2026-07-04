@@ -1,0 +1,20 @@
+# Login System (Java)
+
+##  About
+This is a simple Java console-based login system.
+
+##  Features
+- Username and password authentication
+- Simple validation
+- Console-based interaction
+
+##  Technologies Used
+- Java
+- Scanner
+- String comparison
+
+##  Purpose
+Built for practicing Java control flow and user authentication logic.
+
+##  Author
+Software Developer in progress 
